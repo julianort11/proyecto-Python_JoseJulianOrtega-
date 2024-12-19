@@ -4,7 +4,7 @@ import modulos.ui as menus
 import modulos.funcionCampers as funcionCampers
 import modulos.funcionTrainers as funcionTrainers
 import modulos.funcionAdministracion as funAdmin
-
+print(' ')
 # Función principal
 if __name__ == "__main__":
     while True:
