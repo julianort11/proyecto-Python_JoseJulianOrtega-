@@ -1,0 +1,252 @@
+{
+    "camper": [
+        {
+            "nombre": "Julian",
+            "apellidos": "Ortega",
+            "numeroDocumento": 123456789,
+            "direccion": "Oriental",
+            "acudiente": "Jose",
+            "telefonos": {
+                "celular": 3113396858,
+                "fijo": 0
+            },
+            "estado": {
+                "En proceso": false,
+                "Inscrito": false,
+                "Aprobado": false,
+                "Denegado": true,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "riesgo": {
+                "En revision": false,
+                "Continua en campus": false,
+                "Posible expulcion": false,
+                "No continua en campus": false
+            },
+            "clasesAsignadas": {
+                "j1": {
+                    "horario": "6:00Am - 9:30Am",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                },
+                "j2": {
+                    "horario": "10:00Am - 1:30Pm",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                }
+            },
+            "notas": {
+                "teoria": 0,
+                "practicos": 0,
+                "quizes": 0
+            }
+        },
+        {
+            "nombre": "Julian",
+            "apellidos": "Navarro",
+            "numeroDocumento": 1091658675,
+            "direccion": "Calle 122",
+            "acudiente": "Torcoroma",
+            "telefonos": {
+                "celular": 3216549810,
+                "fijo": 4545
+            },
+            "estado": {
+                "En proceso": true,
+                "inscrito": false,
+                "Aprobado": false,
+                "Denegado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "riesgo": {
+                "En revision": false,
+                "Continua en campus": false,
+                "Posible expulcion": false,
+                "No continua en campus": false
+            },
+            "clasesAsignadas": {
+                "j1": {
+                    "horario": "6:00Am - 9:30Am",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                },
+                "j2": {
+                    "horario": "10:00Am - 1:30Pm",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                }
+            },
+            "notas": {
+                "teoria": 0,
+                "practicos": 0,
+                "quizes": 0
+            }
+        },
+        {
+            "nombre": "Pedro",
+            "apellidos": "Rodriguez",
+            "numeroDocumento": 159753,
+            "direccion": "Calle 13",
+            "acudiente": "Rafael",
+            "telefonos": {
+                "celular": 369868556,
+                "fijo": 458761
+            },
+            "estado": {
+                "En proceso": true,
+                "inscrito": false,
+                "Aprobado": false,
+                "Denegado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "riesgo": {
+                "En revision": false,
+                "Continua en campus": false,
+                "Posible expulcion": false,
+                "No continua en campus": false
+            },
+            "clasesAsignadas": {
+                "j1": {
+                    "horario": "6:00Am - 9:30Am",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                },
+                "j2": {
+                    "horario": "10:00Am - 1:30Pm",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                }
+            },
+            "notas": {
+                "teoria": 0,
+                "practicos": 0,
+                "quizes": 0
+            }
+        }
+    ],
+    "trainerInf": [
+        {
+            "nombreTrainer": "Pedro",
+            "numeroDocumento": 1485755645,
+            "clasesAsignadas": {
+                "p1": {
+                    "horario": "6:00Am - 9:30Am",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": {},
+                    "salon": "artemis"
+                },
+                "p2": {
+                    "horario": "10:00Am - 1:30Pm",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": {},
+                    "salon": "artemis"
+                }
+            }
+        },
+        {
+            "nombreTrainer": "Jolver",
+            "numeroDocumento": 145557545,
+            "clasesAsignadas": {
+                "j1": {
+                    "horario": "6:00Am - 9:30Am",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                },
+                "j2": {
+                    "horario": "10:00Am - 1:30Pm",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "apolo"
+                }
+            }
+        },
+        {
+            "nombreTrainer": "Miguel",
+            "numeroDocumento": 1498574554,
+            "clasesAsignadas": {
+                "m1": {
+                    "horario": "6:00Am - 9:30Am",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "spunink"
+                },
+                "m2": {
+                    "horario": "10:00Am - 1:30Pm",
+                    "ruta": {
+                        "NoteJS": false,
+                        "Java": false,
+                        "NetCore": false
+                    },
+                    "estudiantes": 0,
+                    "salon": "spunink"
+                }
+            }
+        }
+    ],
+    "administracionInf": [
+        {
+            "nombreAdmin": "Karen",
+            "numeroDocumento": 777111
+        }
+    ]
+}
